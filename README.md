@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет, я Леонид 👋
 
-<!--
-**antontonsy-glitch/antontonsy-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студент, изучающий искусственный интеллект, Python и прикладные AI-системы.  
+Мне интересно, как из данных и моделей строятся реальные продукты — от чат-ботов до аналитических систем.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Чем я занимаюсь
+- 🤖 Разработка Telegram-ботов
+- 🧠 Работа с LLM (OpenAI, prompt engineering, AI-агенты)
+- 🐍 Python для автоматизации и анализа данных
+- 📊 AI-пайплайны и обработка информации
+
+---
+
+## 🛠 Технологии
+- Python
+- OpenAI API
+- Telegram Bot API
+- RSS, Web scraping
+- GitHub, Markdown
+- n8n (workflow automation)
+
+---
+
+## 📂 Мои проекты
+- **AI News Digest Bot** — Telegram-бот, который собирает AI-новости из RSS и arXiv, отбирает топ-3 с помощью LLM и публикует дайджест по запросу.
+
+---
+
+## 📫 Контакты
+- GitHub: https://github.com/antontonsy-glitch  
+- Email: antontonsy@email.com (по желанию)
+
+
